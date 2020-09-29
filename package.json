@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "command line based RPM game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suschuk24/jest-another-rpg.git"
+  },
+  "author": "Seth Uschuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suschuk24/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/suschuk24/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
